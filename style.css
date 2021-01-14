@@ -1,0 +1,44 @@
+h1,h3,h5{
+    color:navy;
+}
+.button {
+    background-image: linear-gradient(45deg, blue,navy);
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    width: 140px;
+    text-decoration: none;
+  }
+  
+ 
+  
+  .button  img {
+  width: 40%;
+  }
+  
+  .button .text {
+    font-weight: bold;
+    color:white;
+   
+    font-size: 12px;
+  }
+
+  .new-card{
+      border: 0;
+  }
+  .new-card footer{
+      border: none;
+  }
+.contact{
+    background-color: navy;
+    color:white
+}
+.contact{
+    height: 240px;
+}
+.footer{
+    height: 50px;
+    padding-top: 5px;
+    font-size: 20px;
+    color:navy
+}
